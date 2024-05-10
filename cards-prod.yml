@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank Accounts Production"
+  contactDetails:
+    email: 7G3Zb@example.com
+    name: Bank Accounts
+  onCallSupport:
+    - (555) 555-5555
+    - (444) 444-4444
