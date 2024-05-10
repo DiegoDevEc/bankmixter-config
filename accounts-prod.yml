@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank Accounts Production"
+  message: "Welcome to Bank Accounts Production Apis"
   contactDetails:
     email: "{cipher}1f14a15217145d94970204cce06818e49e5b44f1e0cc6017ca6e937f1467abc619b5b88ed37fcce0c4737e681bb5b945"
     name: Bank Accounts
