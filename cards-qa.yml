@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to Bank Cards QA"
   contactDetails:
     email: 7G3Zb@example.com
