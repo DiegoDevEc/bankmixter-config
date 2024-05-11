@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loans QA"
   contactDetails:
     email: 7G3Zb@example.com
