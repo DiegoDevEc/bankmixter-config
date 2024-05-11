@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loans Development"
   contactDetails:
     email: 7G3Zb@example.com
