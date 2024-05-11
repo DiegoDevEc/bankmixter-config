@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loans Production"
+  message: "Welcome to Bank loans Production RMQ-1"
   contactDetails:
     email: 7G3Zb@example.com
     name: Bank Accounts
